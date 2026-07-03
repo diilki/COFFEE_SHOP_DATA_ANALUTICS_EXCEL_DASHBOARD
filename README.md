@@ -91,7 +91,7 @@ This dashboard helps answer important business questions such as:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900" alt="Coffee Shop Sales Dashboard">
+  <img src="images/Dashboard.png" width="900" alt="Coffee Shop Sales Dashboard">
 </p>
 
 > Replace the image path above with your dashboard screenshot.
