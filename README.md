@@ -94,8 +94,6 @@ This dashboard helps answer important business questions such as:
   <img src="images/Dashboard.png" width="900" alt="Coffee Shop Sales Dashboard">
 </p>
 
-> Replace the image path above with your dashboard screenshot.
-
 ---
 
 ## 📁 Repository Structure
